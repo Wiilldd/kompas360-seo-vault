@@ -1,0 +1,9 @@
+{
+    "v": 1,
+    "kdf": "pbkdf2-sha256",
+    "iter": 100000,
+    "salt": "W0gzhWfgecdFbZYdI1w\/TA==",
+    "iv": "hRG6\/5yFwbgLlNnq",
+    "tag": "pbZ+M6YyMAUj7cTf52CkJw==",
+    "ct": "1+1Ark+K5nuhP8pTyXx7jnAjLWIxgg1uFmohxLbmLjc="
+}
