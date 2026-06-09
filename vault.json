@@ -1,0 +1,9 @@
+{
+    "v": 1,
+    "kdf": "pbkdf2-sha256",
+    "iter": 100000,
+    "salt": "xadjtLgV7QF61xaB8r5yug==",
+    "iv": "VQHX7hwTaO0uytR6",
+    "tag": "1DP699XWnehNs3\/NyY4mFg==",
+    "ct": "nYRONdxiL70e\/If\/UlTCtlCzJSqEmgekvnfj\/+QcuWnvlD2M2MUdh3zCd7VRvmKSyVxKXm+LcP8RFN\/M0sLf4do76Ex\/ntvngR3be\/s6UeoILbBa+jvsOULA3SDJFOzBlRxjwo\/lOX6tTkWSCM6GYTba8quzX7C\/HGQ="
+}
